@@ -1,0 +1,54 @@
+.checked {
+    color: orange;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgrey;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    
+}
+.select {
+    width: 200px;
+}
+.select1 {
+    width: 232px;
+}
+.select2 {
+    width: 255px;
+}
+.select3 {
+    width: 245px;
+}
+.selection {
+    width: 23%;
+}
+.selection1 {
+    width: 24%;
+}
+.category-1 {
+    width: 200px;
+}
+body {
+    background-image: url('bg6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
