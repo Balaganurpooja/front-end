@@ -1,0 +1,18 @@
+.wf {
+    outline: 1px solid white;
+    
+}
+.wf1 {
+    outline: 1px solid white;
+    min-height: 100px;
+    
+}
+
+
+.row {
+    min-height: 300px;
+}
+.row1 {
+    min-height: 100px;
+}
+
